@@ -8,4 +8,4 @@
 | **Mata Kuliah** | Pemrograman WEB |
 
 ## Hasil Tugas
-<img alt="Coding" width="700" src="https://github.com/GilarSumilar/Lab6Web/blob/main/Gambar/Animation.gif">
+<img alt="Coding" width="700" src="https://github.com/ricky1211/Android_9/blob/main/Fiandroid.gif">
